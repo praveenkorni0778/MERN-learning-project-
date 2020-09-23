@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/MERN-learning-project-/static/js/main.ea1a9dbd.chunk.js",
+    "main.js.map": "/MERN-learning-project-/static/js/main.ea1a9dbd.chunk.js.map",
+    "runtime-main.js": "/MERN-learning-project-/static/js/runtime-main.10171024.js",
+    "runtime-main.js.map": "/MERN-learning-project-/static/js/runtime-main.10171024.js.map",
+    "static/css/2.c6bf2efa.chunk.css": "/MERN-learning-project-/static/css/2.c6bf2efa.chunk.css",
+    "static/js/2.bb04f0a8.chunk.js": "/MERN-learning-project-/static/js/2.bb04f0a8.chunk.js",
+    "static/js/2.bb04f0a8.chunk.js.map": "/MERN-learning-project-/static/js/2.bb04f0a8.chunk.js.map",
+    "index.html": "/MERN-learning-project-/index.html",
+    "precache-manifest.643b01378495330f34d6e244da3303b5.js": "/MERN-learning-project-/precache-manifest.643b01378495330f34d6e244da3303b5.js",
+    "service-worker.js": "/MERN-learning-project-/service-worker.js",
+    "static/css/2.c6bf2efa.chunk.css.map": "/MERN-learning-project-/static/css/2.c6bf2efa.chunk.css.map",
+    "static/js/2.bb04f0a8.chunk.js.LICENSE.txt": "/MERN-learning-project-/static/js/2.bb04f0a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10171024.js",
+    "static/css/2.c6bf2efa.chunk.css",
+    "static/js/2.bb04f0a8.chunk.js",
+    "static/js/main.ea1a9dbd.chunk.js"
+  ]
+}
